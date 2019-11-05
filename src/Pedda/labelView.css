@@ -1,0 +1,39 @@
+.border{
+    border:1px solid #15317e;
+    padding:30px;
+    width:40%;
+ }
+ 
+ .header{
+     background-color: #15317e;
+     padding:7px;
+     color:white;
+     text-align: center;
+     font-size: 21px;
+ }
+ .labelclr{
+     color:#15317e;
+ }
+ .Namecol{
+    margin-left: 60px;
+ }
+ .Agecol{
+    margin-left: 71px;
+ }
+ .Addresscol{
+    margin-left: 45px;
+ }
+ .Deptcol{
+    margin-left: 13px;
+ }
+ i{
+     color: #15317e;
+ }
+ .txt{
+    margin-left: 12px;
+    }
+  
+  .Depttxt{
+   margin-left: 109px;
+     
+  } 
